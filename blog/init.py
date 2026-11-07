@@ -1,0 +1,1 @@
+"""Paquete blog: contiene los módulos de datos, operaciones, menú y validaciones."""
